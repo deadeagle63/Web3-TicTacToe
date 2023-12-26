@@ -1,5 +1,5 @@
-#Intro
-This is a little Web3 project which is a simple TicTacToe game.
+# Intro
+This is a little Web3 project which is a simple TicTacToe game. 
 
 ## Program
 
